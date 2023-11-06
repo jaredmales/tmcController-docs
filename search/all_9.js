@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['m_5fbaud_27',['m_baud',['../classtmcController.html#afb3edf08873ab60e15c8e8614e6374db',1,'tmcController']]],
+  ['m_5fchipid_28',['m_chipid',['../classtmcController.html#a9406240eee0a85f2687497f232e98930',1,'tmcController']]],
+  ['m_5fconnected_29',['m_connected',['../classtmcController.html#a63e205564b82edc97ae74708c1b8bcda',1,'tmcController']]],
+  ['m_5fftdi_30',['m_ftdi',['../classtmcController.html#a6544241d9e6d90661cdd23ed4d1403d0',1,'tmcController']]],
+  ['m_5fopened_31',['m_opened',['../classtmcController.html#ab3f54d2d8253f428c20c190b3a586b3f',1,'tmcController']]],
+  ['m_5fpostchanenablesleep_32',['m_postChanEnableSleep',['../classtmcController.html#ade6465c0c829767193610c731c91d0fb',1,'tmcController']]],
+  ['m_5fpostflushsleep_33',['m_postFlushSleep',['../classtmcController.html#ab17c6867d3a3586ac6fb5f36c8695afc',1,'tmcController']]],
+  ['m_5fpreflushsleep_34',['m_preFlushSleep',['../classtmcController.html#aedf6ee975fda147d2869648ae2457f30',1,'tmcController']]],
+  ['m_5fproduct_35',['m_product',['../classtmcController.html#a7e602610de6b4d2128bca88c0c42263c',1,'tmcController']]],
+  ['m_5frdbuf_36',['m_rdbuf',['../classtmcController.html#ad3c75248e57ef13bd726f75c31363a8b',1,'tmcController']]],
+  ['m_5fserial_37',['m_serial',['../classtmcController.html#a58a548dd8a3e50365c00d41cbed0eed3',1,'tmcController']]],
+  ['m_5fsndbuf_38',['m_sndbuf',['../classtmcController.html#adb81cb2d2e43f6546271aea150f35c6e',1,'tmcController']]],
+  ['m_5ftotrd_39',['m_totrd',['../classtmcController.html#afd5371abb945ce62782abe92380469b7',1,'tmcController']]],
+  ['m_5fvendor_40',['m_vendor',['../classtmcController.html#a76c04b2c1adf35f680cfd30d392206ef',1,'tmcController']]],
+  ['main_41',['main',['../demo_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'demo.cpp']]],
+  ['mod_5fidentify_42',['mod_identify',['../classtmcController.html#a3671898a4b6e13d6653ba32b69b5ee1f',1,'tmcController']]],
+  ['mod_5freq_5fchanenablestate_43',['mod_req_chanenablestate',['../classtmcController.html#a056f77aa38268722a2e6fb191d6ba235',1,'tmcController']]],
+  ['mod_5fset_5fchanenablestate_44',['mod_set_chanenablestate',['../classtmcController.html#a1f11bbb755d4ec81d83e5a8e67133d4f',1,'tmcController']]],
+  ['modelnumber_45',['modelNumber',['../structtmcController_1_1HWInfo.html#ab603fd64bdac2798f3c855164bd4288c',1,'tmcController::HWInfo']]]
+];
